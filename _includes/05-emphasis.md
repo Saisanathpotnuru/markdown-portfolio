@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Skills acquired ❇️__
+
+_communication_
+
+_observation_
+
+_End game_
+
+hi ⭐
